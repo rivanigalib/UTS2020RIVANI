@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442078151582",
+    "firebase_url": "https://utsrivani.firebaseio.com",
+    "project_id": "utsrivani",
+    "storage_bucket": "utsrivani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442078151582:android:d742929db8d5c33ca18c8f",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500140_rivani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442078151582-e7pnrjqvmi4mcps19d355btjnms62gds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdZTQau-huZ2FwrnP7XEuRoAmBVSbsKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442078151582-e7pnrjqvmi4mcps19d355btjnms62gds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
